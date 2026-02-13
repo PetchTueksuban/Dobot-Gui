@@ -1,8 +1,4 @@
-/**
- *
- * @author Thoranin
- * id: 6601023621057
- */
+
 import jssc.SerialPort;
 import jssc.SerialPortException;
 
